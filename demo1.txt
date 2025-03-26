@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+Hello Uvashree
+>>>>>>> be1288d (modified name)
 
 Hello kishore!
 
